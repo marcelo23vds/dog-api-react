@@ -182,5 +182,9 @@ Este projeto foi construído para demonstrar o uso de React com tipagem estátic
 * **Busca por Raça:** Encontre fotos específicas de qualquer raça disponível na API.
 * **Interface Fluida:** Transição entre a tela de busca e a grade de resultados.
 * **Design Responsivo:** Adaptado para dispositivos móveis e desktops.
-
 * **Tratamento de Erros:** Feedback visual caso a raça não seja encontrada.  
+
+## Autores
+[Marcelo Vieira](<https://www.linkedin.com/in/marcelovieirasilva/>)  
+[Nicolas dos Santos](<https://www.linkedin.com/in/nicolas-durao//>)  
+Pedro Henrique  
